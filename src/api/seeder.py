@@ -2,10 +2,21 @@ import sys
 sys.path.append('../')
 from api.authors import sync_books_and_author
 from api.database import SessionLocal
+from api.auth import get_password_hash
 import json
 import models
 
 db = SessionLocal()
+
+# Seed user
+user_data = {"username": "abdat", "hashed_password": get_password_hash("DataCose@2023"), "is_active": True}
+db_user = models.User(**user_data)
+db.add(db_user)
+db.commit()
+db.refresh(db_user)
+print("User with username 'abdat' and password 'DataCose@2023' seeded.")
+
+# Seed authors and books
 seed_file = open('seed.json')
 authors = json.load(seed_file)
 
