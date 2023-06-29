@@ -1,0 +1,3852 @@
+[
+    {
+      "name": "Al Sweigart",
+      "books": [
+        {
+          "name": "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners",
+          "number_of_pages": "592"
+        },
+        {
+          "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+          "number_of_pages": "504"
+        },
+        {
+          "name": "Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code",
+          "number_of_pages": "384"
+        },
+        {
+          "name": "Cracking Codes with Python: An Introduction to Building and Breaking Ciphers",
+          "number_of_pages": "416"
+        },
+        {
+          "name": "Invent Your Own Computer Games with Python, 4th Edition",
+          "number_of_pages": "376"
+        },
+        {
+          "name": "Python Programming Exercises, Gently Explained",
+          "number_of_pages": "160"
+        },
+        {
+          "name": "The Big Book of Small Python Projects: 81 Easy Practice Programs",
+          "number_of_pages": "432"
+        },
+        {
+          "name": "The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Eric Matthes",
+      "books": [
+        {
+          "name": "Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming",
+          "number_of_pages": "544"
+        },
+        {
+          "name": "Python Crash Course, 3rd Edition",
+          "number_of_pages": "552"
+        },
+        {
+          "name": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+          "number_of_pages": "560"
+        },
+        {
+          "name": "Python Flash Cards: Syntax, Concepts, and Examples",
+          "number_of_pages": "101"
+        }
+      ]
+    },
+    {
+      "name": "Alan Agresti",
+      "books": [
+        {
+          "name": "An Introduction to Categorical Data Analysis",
+          "number_of_pages": "400"
+        },
+        {
+          "name": "Categorical Data Analysis",
+          "number_of_pages": "752"
+        },
+        {
+          "name": "Categorical Data Analysis (Wiley Series in Probability and Statistics)",
+          "number_of_pages": "734"
+        }
+      ]
+    },
+    {
+      "name": "Allen B. Downey",
+      "books": [
+        {
+          "name": "Modeling and Simulation in Python",
+          "number_of_pages": "272"
+        },
+        {
+          "name": "Think Bayes: Bayesian Statistics in Python (O'reilly)",
+          "number_of_pages": "338"
+        },
+        {
+          "name": "Think Stats: Exploratory Data Analysis",
+          "number_of_pages": "226"
+        }
+      ]
+    },
+    {
+      "name": "Inc. BarCharts",
+      "books": [
+        {
+          "name": "Excel Formulas (Quick Study Computer)",
+          "number_of_pages": "6"
+        },
+        {
+          "name": "Excel Tips & Tricks (Quick Study Computer)",
+          "number_of_pages": "6"
+        },
+        {
+          "name": "Excel: Pivot Tables & Charts (Quick Study Computer)",
+          "number_of_pages": "6"
+        }
+      ]
+    },
+    {
+      "name": "Jim Frost",
+      "books": [
+        {
+          "name": "Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions",
+          "number_of_pages": "381"
+        },
+        {
+          "name": "Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries",
+          "number_of_pages": "255"
+        },
+        {
+          "name": "Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models",
+          "number_of_pages": "355"
+        }
+      ]
+    },
+    {
+      "name": "John Paul Mueller",
+      "books": [
+        {
+          "name": "Algorithms For Dummies (For Dummies (Computer/Tech))",
+          "number_of_pages": "448"
+        },
+        {
+          "name": "Beginning Programming with Python For Dummies",
+          "number_of_pages": "416"
+        },
+        {
+          "name": "Python for Data Science For Dummies",
+          "number_of_pages": "496"
+        }
+      ]
+    },
+    {
+      "name": "Paul A. Zandbergen",
+      "books": [
+        {
+          "name": "Advanced Python Scripting for ArcGIS Pro",
+          "number_of_pages": "290"
+        },
+        {
+          "name": "Python Scripting for ArcGIS (Python Scripting, 1)",
+          "number_of_pages": "358"
+        },
+        {
+          "name": "Python Scripting for ArcGIS Pro",
+          "number_of_pages": "412"
+        }
+      ]
+    },
+    {
+      "name": "Yves Hilpisch",
+      "books": [
+        {
+          "name": "Artificial Intelligence in Finance: A Python-Based Guide",
+          "number_of_pages": "478"
+        },
+        {
+          "name": "Python for Algorithmic Trading: From Idea to Cloud Deployment",
+          "number_of_pages": "380"
+        },
+        {
+          "name": "Python for Finance: Mastering Data-Driven Finance",
+          "number_of_pages": "720"
+        }
+      ]
+    },
+    {
+      "name": "Bill Inmon",
+      "books": [
+        {
+          "name": "Integrating Data",
+          "number_of_pages": "134"
+        },
+        {
+          "name": "The Data Lakehouse Architecture",
+          "number_of_pages": "162"
+        }
+      ]
+    },
+    {
+      "name": "Bradford Tuckfield",
+      "books": [
+        {
+          "name": "Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner",
+          "number_of_pages": "248"
+        },
+        {
+          "name": "Dive Into Data Science: Use Python To Tackle Your Toughest Business Challenges",
+          "number_of_pages": "267"
+        }
+      ]
+    },
+    {
+      "name": "Bradley N. Miller",
+      "books": [
+        {
+          "name": "Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION",
+          "number_of_pages": "438"
+        },
+        {
+          "name": "Python Programming in Context",
+          "number_of_pages": "498"
+        }
+      ]
+    },
+    {
+      "name": "Brian Christian",
+      "books": [
+        {
+          "name": "Algorithms to Live By: The Computer Science of Human Decisions",
+          "number_of_pages": "193"
+        },
+        {
+          "name": "The Alignment Problem: Machine Learning and Human Values",
+          "number_of_pages": "301"
+        }
+      ]
+    },
+    {
+      "name": "Chad Knowles",
+      "books": [
+        {
+          "name": "SQL for Beginners: An Informative and In-depth Guide to SQL Programming",
+          "number_of_pages": "159"
+        },
+        {
+          "name": "SQL for Data Analytics: Perform efficient and fast data analysis with the power of SQL",
+          "number_of_pages": "106"
+        }
+      ]
+    },
+    {
+      "name": "Christian Mayer",
+      "books": [
+        {
+          "name": "Python One-Liners: Write Concise, Eloquent Python Like a Professional",
+          "number_of_pages": "216"
+        },
+        {
+          "name": "The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life",
+          "number_of_pages": "176"
+        }
+      ]
+    },
+    {
+      "name": "Cole Nussbaumer Knaflic",
+      "books": [
+        {
+          "name": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+          "number_of_pages": "288"
+        },
+        {
+          "name": "Storytelling with Data: Let's Practice!",
+          "number_of_pages": "448"
+        }
+      ]
+    },
+    {
+      "name": "Francois Chollet",
+      "books": [
+        {
+          "name": "Deep Learning with Python",
+          "number_of_pages": "192"
+        },
+        {
+          "name": "Deep Learning with Python, Second Edition",
+          "number_of_pages": "504"
+        }
+      ]
+    },
+    {
+      "name": "Jason R. Briggs",
+      "books": [
+        {
+          "name": "Python for Kids, 2nd Edition: A Playful Introduction to Programming",
+          "number_of_pages": "368"
+        },
+        {
+          "name": "Python for Kids: A Playful Introduction To Programming",
+          "number_of_pages": "344"
+        }
+      ]
+    },
+    {
+      "name": "Jesse M. Kinder",
+      "books": [
+        {
+          "name": "A Student's Guide to Python for Physical Modeling: Second Edition",
+          "number_of_pages": "240"
+        },
+        {
+          "name": "A Student's Guide to Python for Physical Modeling: Updated Edition",
+          "number_of_pages": "168"
+        }
+      ]
+    },
+    {
+      "name": "John Tukey",
+      "books": [
+        {
+          "name": "Exploratory Data Analysis",
+          "number_of_pages": "712"
+        },
+        {
+          "name": "Exploratory Data Analysis (Classic Version) (Pearson Modern Classic)",
+          "number_of_pages": "720"
+        }
+      ]
+    },
+    {
+      "name": "Jordan Morrow",
+      "books": [
+        {
+          "name": "Be Data Driven: How Organizations Can Harness the Power of Data",
+          "number_of_pages": "240"
+        },
+        {
+          "name": "Be Data Literate: The Data Literacy Skills Everyone Needs To Succeed",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Schmuller",
+      "books": [
+        {
+          "name": "Statistical Analysis with Excel For Dummies (For Dummies (Computer/Tech))",
+          "number_of_pages": "576"
+        },
+        {
+          "name": "Statistical Analysis with R For Dummies (For Dummies (Computers))",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Justin Seitz",
+      "books": [
+        {
+          "name": "Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters",
+          "number_of_pages": "216"
+        },
+        {
+          "name": "Black Hat Python: Python Programming for Hackers and Pentesters",
+          "number_of_pages": "192"
+        }
+      ]
+    },
+    {
+      "name": "Lee Vaughan",
+      "books": [
+        {
+          "name": "Impractical Python Projects: Playful Programming Activities to Make You Smarter",
+          "number_of_pages": "424"
+        },
+        {
+          "name": "Real-World Python: A Hacker's Guide to Solving Problems with Code",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Lillian Pierson",
+      "books": [
+        {
+          "name": "Data Science For Dummies",
+          "number_of_pages": "408"
+        },
+        {
+          "name": "Data Science for Dummies: 2nd Edition",
+          "number_of_pages": "301"
+        }
+      ]
+    },
+    {
+      "name": "Michael C. Whitlock",
+      "books": [
+        {
+          "name": "The Analysis of Biological Data",
+          "number_of_pages": "848"
+        },
+        {
+          "name": "The Analysis of Biological Data, Second Edition",
+          "number_of_pages": "768"
+        }
+      ]
+    },
+    {
+      "name": "Michael Dawson",
+      "books": [
+        {
+          "name": "Guide to Programming with Python",
+          "number_of_pages": "496"
+        },
+        {
+          "name": "Python Programming for the Absolute Beginner, 3rd Edition",
+          "number_of_pages": "455"
+        }
+      ]
+    },
+    {
+      "name": "Oz du Soleil",
+      "books": [
+        {
+          "name": "Guerrilla Data Analysis Using Microsoft Excel: 2nd Edition Covering Excel 2010/2013",
+          "number_of_pages": "180"
+        },
+        {
+          "name": "Guerrilla Data Analysis Using Microsoft Excel: Overcoming Crap Data and Excel Skirmishes",
+          "number_of_pages": "274"
+        }
+      ]
+    },
+    {
+      "name": "Peter Bruce",
+      "books": [
+        {
+          "name": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+          "number_of_pages": "318"
+        },
+        {
+          "name": "Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python",
+          "number_of_pages": "368"
+        }
+      ]
+    },
+    {
+      "name": "Ramesh Sharda",
+      "books": [
+        {
+          "name": "Analytics, Data Science, & Artificial Intelligence: Systems for Decision Support",
+          "number_of_pages": "832"
+        },
+        {
+          "name": "Business Intelligence, Analytics, and Data Science: A Managerial Perspective",
+          "number_of_pages": "512"
+        }
+      ]
+    },
+    {
+      "name": "Raven Black",
+      "books": [
+        {
+          "name": "Python Newbies: 55 Hand-Picked Resources to Get Started Quickly",
+          "number_of_pages": "10"
+        },
+        {
+          "name": "Python Pro Tips: 101 Expert Techniques to Boost Your Coding Skills",
+          "number_of_pages": "22"
+        }
+      ]
+    },
+    {
+      "name": "S. Christian Albright",
+      "books": [
+        {
+          "name": "Business Analytics: Data Analysis & Decision Making - Standalone book",
+          "number_of_pages": "984"
+        },
+        {
+          "name": "Business Analytics: Data Analysis & Decision Making (MindTap Course List)",
+          "number_of_pages": "984"
+        }
+      ]
+    },
+    {
+      "name": "Scott Mccoy",
+      "books": [
+        {
+          "name": "Murach's Python for Data Analysis (Training & Reference)",
+          "number_of_pages": "559"
+        },
+        {
+          "name": "Murach's R for Data Analysis",
+          "number_of_pages": "576"
+        }
+      ]
+    },
+    {
+      "name": "Tony Snake",
+      "books": [
+        {
+          "name": "Practical Ethical Hacking with Python: Develop your own ethical hacking tools using Python",
+          "number_of_pages": "289"
+        }
+      ]
+    },
+    {
+      "name": "tony snake",
+      "books": [
+        {
+          "name": "Python For Beginner: 24 Hours with Python: How to Learn Python Program in 24 Hours",
+          "number_of_pages": "440"
+        }
+      ]
+    },
+    {
+      "name": "Wayne L. Winston",
+      "books": [
+        {
+          "name": "Mathletics: How Gamblers, Managers, and Fans Use Mathematics in Sports, Second Edition",
+          "number_of_pages": "608"
+        },
+        {
+          "name": "Microsoft® Excel Data Analysis and Business Modeling",
+          "number_of_pages": "624"
+        }
+      ]
+    },
+    {
+      "name": "Aine Humble",
+      "books": [
+        {
+          "name": "How Qualitative Data Analysis Happens: Moving Beyond \"Themes Emerged\"",
+          "number_of_pages": "238"
+        }
+      ]
+    },
+    {
+      "name": "Abby Jame",
+      "books": [
+        {
+          "name": "Emotional Data",
+          "number_of_pages": "24"
+        }
+      ]
+    },
+    {
+      "name": "Abdullah Karasan",
+      "books": [
+        {
+          "name": "Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk",
+          "number_of_pages": "334"
+        }
+      ]
+    },
+    {
+      "name": "Adam Frost",
+      "books": [
+        {
+          "name": "Communicating with Data Visualisation: A Practical Guide",
+          "number_of_pages": "368"
+        }
+      ]
+    },
+    {
+      "name": "Adam Schroeder",
+      "books": [
+        {
+          "name": "The Book of Dash: Build Dashboards with Python and Plotly",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Aditya Bhargava",
+      "books": [
+        {
+          "name": "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Adrienne Tacke",
+      "books": [
+        {
+          "name": "Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities",
+          "number_of_pages": "232"
+        }
+      ]
+    },
+    {
+      "name": "Aileen Nielsen",
+      "books": [
+        {
+          "name": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
+          "number_of_pages": "504"
+        }
+      ]
+    },
+    {
+      "name": "Ajay Agrawal",
+      "books": [
+        {
+          "name": "Power and Prediction: The Disruptive Economics of Artificial Intelligence",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Ajit Tamhane",
+      "books": [
+        {
+          "name": "Statistics and Data Analysis: From Elementary to Intermediate",
+          "number_of_pages": "736"
+        }
+      ]
+    },
+    {
+      "name": "Akash Tandon",
+      "books": [
+        {
+          "name": "Advanced Analytics with PySpark: Patterns for Learning from Data at Scale Using Python and Spark",
+          "number_of_pages": "763"
+        }
+      ]
+    },
+    {
+      "name": "Alberto Scappini",
+      "books": [
+        {
+          "name": "The Art of Data Analysis: Non-Technical Skills for Data Analysts",
+          "number_of_pages": "305"
+        }
+      ]
+    },
+    {
+      "name": "Alex Bradbury",
+      "books": [
+        {
+          "name": "Learning Python with Raspberry Pi",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Alex Campbell",
+      "books": [
+        {
+          "name": "Python for Data Science: Comprehensive Guide to Data Science with Python",
+          "number_of_pages": "118"
+        }
+      ]
+    },
+    {
+      "name": "Alex Gorelik",
+      "books": [
+        {
+          "name": "The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Alex Martelli",
+      "books": [
+        {
+          "name": "Python in a Nutshell: A Desktop Quick Reference",
+          "number_of_pages": "600"
+        }
+      ]
+    },
+    {
+      "name": "Alexey Grigorev",
+      "books": [
+        {
+          "name": "Machine Learning Bookcamp: Build a portfolio of real-life projects",
+          "number_of_pages": "472"
+        }
+      ]
+    },
+    {
+      "name": "Alfred Z. Spector",
+      "books": [
+        {
+          "name": "Data Science in Context: Foundations, Challenges, Opportunities",
+          "number_of_pages": "335"
+        }
+      ]
+    },
+    {
+      "name": "Ali Noorani",
+      "books": [
+        {
+          "name": "Raise Your Analytics Game: From Excel to PowerBI",
+          "number_of_pages": "260"
+        }
+      ]
+    },
+    {
+      "name": "Amit Phaltankar",
+      "books": [
+        {
+          "name": "MongoDB Fundamentals: A hands-on guide to using MongoDB and Atlas in the real world",
+          "number_of_pages": "748"
+        }
+      ]
+    },
+    {
+      "name": "Amit Saha",
+      "books": [
+        {
+          "name": "Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!",
+          "number_of_pages": "264"
+        }
+      ]
+    },
+    {
+      "name": "Anabel Quan-Haase",
+      "books": [
+        {
+          "name": "The SAGE Handbook of Social Media Research Methods",
+          "number_of_pages": "768"
+        }
+      ]
+    },
+    {
+      "name": "Andrea Filatro",
+      "books": [
+        {
+          "name": "Data Science in Education",
+          "number_of_pages": "195"
+        }
+      ]
+    },
+    {
+      "name": "Andreas Lindholm",
+      "books": [
+        {
+          "name": "Machine Learning: A First Course for Engineers and Scientists",
+          "number_of_pages": "350"
+        }
+      ]
+    },
+    {
+      "name": "Andres Fortino PhD",
+      "books": [
+        {
+          "name": "Data Analysis For Business Decisions 2E: A Laboratory Manual",
+          "number_of_pages": "198"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Nguyen",
+      "books": [
+        {
+          "name": "Hands-On Healthcare Data: Taming the Complexity of Real-World Data",
+          "number_of_pages": "242"
+        }
+      ]
+    },
+    {
+      "name": "Andrie de Vries",
+      "books": [
+        {
+          "name": "R For Dummies",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "Andriy Burkov",
+      "books": [
+        {
+          "name": "The Hundred-Page Machine Learning Book",
+          "number_of_pages": "160"
+        }
+      ]
+    },
+    {
+      "name": "Angel Pablo Hinojosa Gutiérrez",
+      "books": [
+        {
+          "name": "El lenguaje de programación Python de principio a fin (Spanish Edition)",
+          "number_of_pages": "744"
+        }
+      ]
+    },
+    {
+      "name": "Anthony DeBarros",
+      "books": [
+        {
+          "name": "Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Anthony Shaw",
+      "books": [
+        {
+          "name": "CPython Internals: Your Guide to the Python 3 Interpreter",
+          "number_of_pages": "394"
+        }
+      ]
+    },
+    {
+      "name": "Antoine Jacquier",
+      "books": [
+        {
+          "name": "Quantum Machine Learning and Optimisation in Finance: On the Road to Quantum Advantage",
+          "number_of_pages": "442"
+        }
+      ]
+    },
+    {
+      "name": "Antonio Mele",
+      "books": [
+        {
+          "name": "Django 4 By Example: Build powerful and reliable Python web applications from scratch, 4th Edition",
+          "number_of_pages": "764"
+        }
+      ]
+    },
+    {
+      "name": "April Speight",
+      "books": [
+        {
+          "name": "Bite-Size Python: An Introduction to Python Programming",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Armando Fandango",
+      "books": [
+        {
+          "name": "Python Data Analysis - Second Edition",
+          "number_of_pages": "330"
+        }
+      ]
+    },
+    {
+      "name": "Ashish Ranjan Jha",
+      "books": [
+        {
+          "name": "Mastering PyTorch: Build powerful neural network architectures using advanced PyTorch 1.x features",
+          "number_of_pages": "450"
+        }
+      ]
+    },
+    {
+      "name": "Avrim Blum",
+      "books": [
+        {
+          "name": "Foundations of Data Science",
+          "number_of_pages": "781"
+        }
+      ]
+    },
+    {
+      "name": "Barr Moses",
+      "books": [
+        {
+          "name": "Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines",
+          "number_of_pages": "308"
+        }
+      ]
+    },
+    {
+      "name": "Ben Shaw",
+      "books": [
+        {
+          "name": "Web Development with Django: Learn to build modern web applications with a Python-based framework",
+          "number_of_pages": "826"
+        }
+      ]
+    },
+    {
+      "name": "Ben Weber",
+      "books": [
+        {
+          "name": "Data Science in Production: Building Scalable Model Pipelines with Python",
+          "number_of_pages": "234"
+        }
+      ]
+    },
+    {
+      "name": "Ben Wilson",
+      "books": [
+        {
+          "name": "Machine Learning Engineering in Action",
+          "number_of_pages": "101"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Bengfort",
+      "books": [
+        {
+          "name": "Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning",
+          "number_of_pages": "332"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Farrar",
+      "books": [
+        {
+          "name": "Data Analyses: Detailed, Scientific, and Business-Oriented Data Reading Skills",
+          "number_of_pages": "191"
+        }
+      ]
+    },
+    {
+      "name": "Berajah Jayne",
+      "books": [
+        {
+          "name": "Python Programming Language",
+          "number_of_pages": "6"
+        }
+      ]
+    },
+    {
+      "name": "Bernard Marr",
+      "books": [
+        {
+          "name": "Data-Driven HR: How to Use Analytics and Metrics to Drive Performance",
+          "number_of_pages": "264"
+        }
+      ]
+    },
+    {
+      "name": "Bernie Hogan",
+      "books": [
+        {
+          "name": "From Social Science to Data Science: Key Data Collection and Analysis Skills in Python",
+          "number_of_pages": "400"
+        }
+      ]
+    },
+    {
+      "name": "Bill Lubanovic",
+      "books": [
+        {
+          "name": "Introducing Python: Modern Computing in Simple Packages",
+          "number_of_pages": "630"
+        }
+      ]
+    },
+    {
+      "name": "Bill Weinman",
+      "books": [
+        {
+          "name": "C++20 STL Cookbook: Leverage the latest features of the STL to solve real-world problems",
+          "number_of_pages": "450"
+        }
+      ]
+    },
+    {
+      "name": "Bob McCabe",
+      "books": [
+        {
+          "name": "The Pythons' Autobiography By The Pythons",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Bogumil Kaminski",
+      "books": [
+        {
+          "name": "Julia for Data Analysis",
+          "number_of_pages": "472"
+        }
+      ]
+    },
+    {
+      "name": "Bonny McClain",
+      "books": [
+        {
+          "name": "Python for Geospatial Data Analysis: Theory, Tools, and Practice for Location Intelligence",
+          "number_of_pages": "279"
+        }
+      ]
+    },
+    {
+      "name": "Brandeis Hill Marshall",
+      "books": [
+        {
+          "name": "Data Conscience: Algorithmic Siege on our Humanity",
+          "number_of_pages": "352"
+        }
+      ]
+    },
+    {
+      "name": "Brett Lantz",
+      "books": [
+        {
+          "name": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
+          "number_of_pages": "458"
+        }
+      ]
+    },
+    {
+      "name": "Brian Godsey",
+      "books": [
+        {
+          "name": "Think Like a Data Scientist: Tackle the data science process step-by-step",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Brian Larson",
+      "books": [
+        {
+          "name": "Data Analysis with Microsoft Power BI",
+          "number_of_pages": "544"
+        }
+      ]
+    },
+    {
+      "name": "Brian Okken",
+      "books": [
+        {
+          "name": "Python Testing with pytest: Simple, Rapid, Effective, and Scalable",
+          "number_of_pages": "274"
+        }
+      ]
+    },
+    {
+      "name": "Burge",
+      "books": [
+        {
+          "name": "Field Guide to Optomechanical Design and Analysis (Spie Field Guides)",
+          "number_of_pages": "168"
+        }
+      ]
+    },
+    {
+      "name": "Caleb Hattingh",
+      "books": [
+        {
+          "name": "Using Asyncio in Python: Understanding Python's Asynchronous Programming Features",
+          "number_of_pages": "163"
+        }
+      ]
+    },
+    {
+      "name": "Carl T. Bergstrom",
+      "books": [
+        {
+          "name": "Calling Bullshit: The Art of Skepticism in a Data-Driven World",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "Carol Grbich",
+      "books": [
+        {
+          "name": "Qualitative Data Analysis: An Introduction",
+          "number_of_pages": "344"
+        }
+      ]
+    },
+    {
+      "name": "Caroline Criado Perez",
+      "books": [
+        {
+          "name": "Invisible Women: Data Bias in a World Designed for Men",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "Cathy ONeil",
+      "books": [
+        {
+          "name": "Doing Data Science: Straight Talk from the Frontline",
+          "number_of_pages": "408"
+        }
+      ]
+    },
+    {
+      "name": "Cathy Tanimura",
+      "books": [
+        {
+          "name": "SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Changquan Huang",
+      "books": [
+        {
+          "name": "Applied Time Series Analysis and Forecasting with Python (Statistics and Computing)",
+          "number_of_pages": "382"
+        }
+      ]
+    },
+    {
+      "name": "Charles D. Ghilani",
+      "books": [
+        {
+          "name": "Adjustment Computations: Spatial Data Analysis",
+          "number_of_pages": "720"
+        }
+      ]
+    },
+    {
+      "name": "Charles M. Judd",
+      "books": [
+        {
+          "name": "Data Analysis: A Model Comparison Approach To Regression, ANOVA, and Beyond, Third Edition",
+          "number_of_pages": "366"
+        }
+      ]
+    },
+    {
+      "name": "Charles R. Severance",
+      "books": [
+        {
+          "name": "Python for Everybody: Exploring Data in Python 3",
+          "number_of_pages": "387"
+        }
+      ]
+    },
+    {
+      "name": "Cheng Hsiao",
+      "books": [
+        {
+          "name": "Analysis of Panel Data (Econometric Society Monographs)",
+          "number_of_pages": "500"
+        }
+      ]
+    },
+    {
+      "name": "Cheryl James-Ward",
+      "books": [
+        {
+          "name": "Using Data to Focus Instructional Improvement",
+          "number_of_pages": "134"
+        }
+      ]
+    },
+    {
+      "name": "Chibudom Obasi",
+      "books": [
+        {
+          "name": "Python Crash Course",
+          "number_of_pages": "41"
+        }
+      ]
+    },
+    {
+      "name": "Chip Heath",
+      "books": [
+        {
+          "name": "Making Numbers Count: The Art and Science of Communicating Numbers",
+          "number_of_pages": "208"
+        }
+      ]
+    },
+    {
+      "name": "Chip Huyen",
+      "books": [
+        {
+          "name": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+          "number_of_pages": "386"
+        }
+      ]
+    },
+    {
+      "name": "Chirag Shah",
+      "books": [
+        {
+          "name": "A Hands-On Introduction to Data Science",
+          "number_of_pages": "424"
+        }
+      ]
+    },
+    {
+      "name": "Chris Fregly",
+      "books": [
+        {
+          "name": "Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines",
+          "number_of_pages": "521"
+        }
+      ]
+    },
+    {
+      "name": "Chris McMullen",
+      "books": [
+        {
+          "name": "Essential Calculus Skills Practice Workbook with Full Solutions",
+          "number_of_pages": "151"
+        }
+      ]
+    },
+    {
+      "name": "Chris Wiggins",
+      "books": [
+        {
+          "name": "How Data Happened: A History from the Age of Reason to the Age of Algorithms",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Christian Hill",
+      "books": [
+        {
+          "name": "Learning Scientific Programming with Python",
+          "number_of_pages": "570"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Hian-ann Ting",
+      "books": [
+        {
+          "name": "Algorithmic Finance: A Companion To Data Science",
+          "number_of_pages": "408"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Ilacqua",
+      "books": [
+        {
+          "name": "Learning Qlik® Sense: The Official Guide",
+          "number_of_pages": "230"
+        }
+      ]
+    },
+    {
+      "name": "Christopher M. Bishop",
+      "books": [
+        {
+          "name": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+          "number_of_pages": "738"
+        }
+      ]
+    },
+    {
+      "name": "Cory Althoff",
+      "books": [
+        {
+          "name": "The Self-Taught Computer Scientist: The Beginner's Guide to Data Structures & Algorithms",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Craig Richardson",
+      "books": [
+        {
+          "name": "Learn to Program with Minecraft: Transform Your World with the Power of Python",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "Dan Bader",
+      "books": [
+        {
+          "name": "Python Tricks: A Buffet of Awesome Python Features",
+          "number_of_pages": "301"
+        }
+      ]
+    },
+    {
+      "name": "Dan Bouk",
+      "books": [
+        {
+          "name": "Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Nelson",
+      "books": [
+        {
+          "name": "Data Visualization in Python",
+          "number_of_pages": "345"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Situnayake",
+      "books": [
+        {
+          "name": "AI at the Edge: Solving Real-World Problems with Embedded Machine Learning",
+          "number_of_pages": "450"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Zingaro",
+      "books": [
+        {
+          "name": "Learn to Code by Solving Problems: A Python Programming Primer",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "Danil Zburivsky",
+      "books": [
+        {
+          "name": "Designing Cloud Data Platforms",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "David Amos",
+      "books": [
+        {
+          "name": "Python Basics: A Practical Introduction to Python 3",
+          "number_of_pages": "637"
+        }
+      ]
+    },
+    {
+      "name": "David Howe",
+      "books": [
+        {
+          "name": "Data Analysis for Database Design",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "David Kopec",
+      "books": [
+        {
+          "name": "Classic Computer Science Problems in Python",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "David Landup",
+      "books": [
+        {
+          "name": "Practical Deep Learning for Computer Vision with Python",
+          "number_of_pages": "601"
+        }
+      ]
+    },
+    {
+      "name": "David Morgan",
+      "books": [
+        {
+          "name": "Monty Python Speaks, Revised and Updated Edition: The Complete Oral History",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "David Sale",
+      "books": [
+        {
+          "name": "Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing",
+          "number_of_pages": "201"
+        }
+      ]
+    },
+    {
+      "name": "David Spiegelhalter",
+      "books": [
+        {
+          "name": "The Art of Statistics: How to Learn from Data",
+          "number_of_pages": "448"
+        }
+      ]
+    },
+    {
+      "name": "Davy Cielen",
+      "books": [
+        {
+          "name": "Introducing Data Science: Big Data, Machine Learning, and more, using Python tools",
+          "number_of_pages": "320"
+        }
+      ]
+    },
+    {
+      "name": "Deborah Nolan",
+      "books": [
+        {
+          "name": "Communicating with Data: The Art of Writing for Data Science",
+          "number_of_pages": "352"
+        }
+      ]
+    },
+    {
+      "name": "Denise Polit",
+      "books": [
+        {
+          "name": "Statistics and Data Analysis for Nursing Research",
+          "number_of_pages": "456"
+        }
+      ]
+    },
+    {
+      "name": "Dick Kusleika",
+      "books": [
+        {
+          "name": "Data Visualization with Excel Dashboards and Reports",
+          "number_of_pages": "352"
+        }
+      ]
+    },
+    {
+      "name": "DK",
+      "books": [
+        {
+          "name": "Coding Games in Python (Computer Coding for Kids)",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Donald Norris",
+      "books": [
+        {
+          "name": "Python for Microcontrollers: Getting Started with MicroPython",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Donald P. Wilson",
+      "books": [
+        {
+          "name": "Python Programming for Beginners: Python Programming Creak Course to Get Python Coding Well & Quick",
+          "number_of_pages": "100"
+        }
+      ]
+    },
+    {
+      "name": "Doug Farrell",
+      "books": [
+        {
+          "name": "The Well-Grounded Python Developer",
+          "number_of_pages": "375"
+        }
+      ]
+    },
+    {
+      "name": "Douglas B. Laney",
+      "books": [
+        {
+          "name": "Data Juice: 101 Stories of How Organizations Are Squeezing Value from Available Data Assets",
+          "number_of_pages": "370"
+        }
+      ]
+    },
+    {
+      "name": "Dr Dhaval Maheta",
+      "books": [
+        {
+          "name": "Data Analysis Using R (Low Priced Edition): A Primer for Data Scientist",
+          "number_of_pages": "500"
+        }
+      ]
+    },
+    {
+      "name": "Dr Martin Jones",
+      "books": [
+        {
+          "name": "Python for Biologists: A complete programming course for beginners",
+          "number_of_pages": "244"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Briit",
+      "books": [
+        {
+          "name": "The Data Science Mindset: 6 Principles To Build Healthy Data-Driven Skills & Organizations",
+          "number_of_pages": "56"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Rob Kabacoff",
+      "books": [
+        {
+          "name": "R in Action: Data Analysis and Graphics with R",
+          "number_of_pages": "608"
+        }
+      ]
+    },
+    {
+      "name": "Dzejla Medjedovic",
+      "books": [
+        {
+          "name": "Algorithms and Data Structures for Massive Datasets",
+          "number_of_pages": "761"
+        }
+      ]
+    },
+    {
+      "name": "Edcorner Learning",
+      "books": [
+        {
+          "name": "53 Must Do Python Projects For All",
+          "number_of_pages": "231"
+        }
+      ]
+    },
+    {
+      "name": "Edzer Pebesma",
+      "books": [
+        {
+          "name": "Spatial Data Science: With Applications in R (Chapman & Hall/CRC The R Series)",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Ekaterina Kochmar",
+      "books": [
+        {
+          "name": "Getting Started with Natural Language Processing",
+          "number_of_pages": "456"
+        }
+      ]
+    },
+    {
+      "name": "Elena Llaudet",
+      "books": [
+        {
+          "name": "Data Analysis for Social Science: A Friendly and Practical Introduction",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "EMC Education Services",
+      "books": [
+        {
+          "name": "Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "Emily Robinson",
+      "books": [
+        {
+          "name": "Build a Career in Data Science",
+          "number_of_pages": "108"
+        }
+      ]
+    },
+    {
+      "name": "Erica Thompson",
+      "books": [
+        {
+          "name": "Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Ethan Bueno de Mesquita",
+      "books": [
+        {
+          "name": "Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis",
+          "number_of_pages": "400"
+        }
+      ]
+    },
+    {
+      "name": "Etta Kaner",
+      "books": [
+        {
+          "name": "Beware the Burmese Pythons: And Other Invasive Animal Species",
+          "number_of_pages": "48"
+        }
+      ]
+    },
+    {
+      "name": "Eugenia Bahit",
+      "books": [
+        {
+          "name": "Python Aplicado (Spanish Edition)",
+          "number_of_pages": "286"
+        }
+      ]
+    },
+    {
+      "name": "Ewen Harrison",
+      "books": [
+        {
+          "name": "R for Health Data Science",
+          "number_of_pages": "364"
+        }
+      ]
+    },
+    {
+      "name": "F. Gregory Ashby",
+      "books": [
+        {
+          "name": "Statistical Analysis of fMRI Data, second edition (The MIT Press)",
+          "number_of_pages": "568"
+        }
+      ]
+    },
+    {
+      "name": "Fabrizio Romano",
+      "books": [
+        {
+          "name": "Learn Python Programming: An in-depth introduction to the fundamentals of Python, 3rd Edition",
+          "number_of_pages": "552"
+        }
+      ]
+    },
+    {
+      "name": "Farrokh Alemi",
+      "books": [
+        {
+          "name": "Big Data in Healthcare: Statistical Analysis of the Electronic Health Record (1)",
+          "number_of_pages": "553"
+        }
+      ]
+    },
+    {
+      "name": "Felix Zumstein",
+      "books": [
+        {
+          "name": "Python for Excel: A Modern Environment for Automation and Data Analysis",
+          "number_of_pages": "335"
+        }
+      ]
+    },
+    {
+      "name": "Florent Buisson",
+      "books": [
+        {
+          "name": "Behavioral Data Analysis with R and Python: Customer-Driven Data for Real Business Results",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Folgert Karsdorp",
+      "books": [
+        {
+          "name": "Humanities Data Analysis: Case Studies with Python",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Foster Provost",
+      "books": [
+        {
+          "name": "Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking",
+          "number_of_pages": "173"
+        }
+      ]
+    },
+    {
+      "name": "Franzi Korner-Nievergelt",
+      "books": [
+        {
+          "name": "Bayesian Data Analysis in Ecology Using Linear Models with R, BUGS, and Stan",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Fred Ramsey",
+      "books": [
+        {
+          "name": "The Statistical Sleuth: A Course in Methods of Data Analysis",
+          "number_of_pages": "784"
+        }
+      ]
+    },
+    {
+      "name": "Frederick Kaefer",
+      "books": [
+        {
+          "name": "Introduction to Python Programming for Business and Social Science Applications",
+          "number_of_pages": "392"
+        }
+      ]
+    },
+    {
+      "name": "G. R. Kanagachidambaresan",
+      "books": [
+        {
+          "name": "Internet of Things Using Single Board Computers: Principles of IoT and Python Programming",
+          "number_of_pages": "312"
+        }
+      ]
+    },
+    {
+      "name": "Gábor Békés",
+      "books": [
+        {
+          "name": "Data Analysis for Business, Economics, and Policy",
+          "number_of_pages": "738"
+        }
+      ]
+    },
+    {
+      "name": "Garrett Grolemund",
+      "books": [
+        {
+          "name": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+          "number_of_pages": "518"
+        }
+      ]
+    },
+    {
+      "name": "Gary Koop",
+      "books": [
+        {
+          "name": "Analysis of Economic Data",
+          "number_of_pages": "272"
+        }
+      ]
+    },
+    {
+      "name": "George Mount",
+      "books": [
+        {
+          "name": "Advancing into Analytics: From Excel to Python and R",
+          "number_of_pages": "250"
+        }
+      ]
+    },
+    {
+      "name": "Gilit Saporta",
+      "books": [
+        {
+          "name": "Practical Fraud Prevention: Fraud and AML Analytics for Fintech and eCommerce, Using SQL and Python",
+          "number_of_pages": "394"
+        }
+      ]
+    },
+    {
+      "name": "Gonczarowski Yannai A.",
+      "books": [
+        {
+          "name": "Mathematical Logic through Python",
+          "number_of_pages": "284"
+        }
+      ]
+    },
+    {
+      "name": "Gordon S. Linoff",
+      "books": [
+        {
+          "name": "Data Analysis Using SQL and Excel",
+          "number_of_pages": "800"
+        }
+      ]
+    },
+    {
+      "name": "Graham Chapman",
+      "books": [
+        {
+          "name": "The Complete Monty Python's Flying Circus; All the Words Volume One",
+          "number_of_pages": "352"
+        }
+      ]
+    },
+    {
+      "name": "Gunnar Carlsson",
+      "books": [
+        {
+          "name": "Topological Data Analysis with Applications",
+          "number_of_pages": "230"
+        }
+      ]
+    },
+    {
+      "name": "Gurney Brown",
+      "books": [
+        {
+          "name": "Colt's Python, King of the Seven Serpents",
+          "number_of_pages": "304"
+        }
+      ]
+    },
+    {
+      "name": "Gwen Shapira",
+      "books": [
+        {
+          "name": "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale",
+          "number_of_pages": "488"
+        }
+      ]
+    },
+    {
+      "name": "Haksun Li  PhD",
+      "books": [
+        {
+          "name": "Numerical Methods Using Kotlin: For Data Science, Analysis, and Engineering",
+          "number_of_pages": "921"
+        }
+      ]
+    },
+    {
+      "name": "Harry Percival",
+      "books": [
+        {
+          "name": "Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript",
+          "number_of_pages": "624"
+        }
+      ]
+    },
+    {
+      "name": "Harvard Business Review",
+      "books": [
+        {
+          "name": "HBR Guide to Data Analytics Basics for Managers (HBR Guide Series)",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Hendrik Kleine",
+      "books": [
+        {
+          "name": "Tableau Prep Cookbook: Use Tableau Prep to clean, combine, and transform your data for analysis",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Holden Karau",
+      "books": [
+        {
+          "name": "Scaling Python with Ray: Adventures in Cloud and Serverless Patterns",
+          "number_of_pages": "266"
+        }
+      ]
+    },
+    {
+      "name": "Howard E. Poston III",
+      "books": [
+        {
+          "name": "Python for Cybersecurity: Using Python for Cyber Offense and Defense",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Information Resources Management Association",
+      "books": [
+        {
+          "name": "Research Anthology on Machine Learning Techniques, Methods, and Applications",
+          "number_of_pages": "555"
+        }
+      ]
+    },
+    {
+      "name": "Irene Aldridge",
+      "books": [
+        {
+          "name": "Big Data Science in Finance",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "J. Scott Long",
+      "books": [
+        {
+          "name": "The Workflow of Data Analysis Using Stata",
+          "number_of_pages": "379"
+        }
+      ]
+    },
+    {
+      "name": "Jack Merrin",
+      "books": [
+        {
+          "name": "Introduction to Error Analysis: The Science of Measurements, Uncertainties, and Data Analysis",
+          "number_of_pages": "112"
+        }
+      ]
+    },
+    {
+      "name": "Jacqueline M. Quinless",
+      "books": [
+        {
+          "name": "Decolonizing Data: Unsettling Conversations about Social Research Methods",
+          "number_of_pages": "172"
+        }
+      ]
+    },
+    {
+      "name": "Jake VanderPlas",
+      "books": [
+        {
+          "name": "Python Data Science Handbook: Essential Tools for Working with Data",
+          "number_of_pages": "550"
+        }
+      ]
+    },
+    {
+      "name": "James B. Schreiber PhD",
+      "books": [
+        {
+          "name": "Statistics and Data Analysis Literacy for Nurses",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "James Evans",
+      "books": [
+        {
+          "name": "Statistics, Data Analysis, and Decision Modeling",
+          "number_of_pages": "552"
+        }
+      ]
+    },
+    {
+      "name": "James R. Parker PhD",
+      "books": [
+        {
+          "name": "Game Development Using Python",
+          "number_of_pages": "338"
+        }
+      ]
+    },
+    {
+      "name": "Jason C McDonald",
+      "books": [
+        {
+          "name": "Dead Simple Python: Idiomatic Python for the Impatient Programmer",
+          "number_of_pages": "705"
+        }
+      ]
+    },
+    {
+      "name": "JD Long",
+      "books": [
+        {
+          "name": "R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",
+          "number_of_pages": "600"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Francois Collard",
+      "books": [
+        {
+          "name": "Hands-On Data Analysis in R for Finance",
+          "number_of_pages": "414"
+        }
+      ]
+    },
+    {
+      "name": "Jeffrey M. Wooldridge",
+      "books": [
+        {
+          "name": "Econometric Analysis of Cross Section and Panel Data, second edition (The MIT Press)",
+          "number_of_pages": "1096"
+        }
+      ]
+    },
+    {
+      "name": "Jentezen Franklin",
+      "books": [
+        {
+          "name": "The Spirit of Python: Exposing Satan’s Plan to Squeeze the Life Out of You",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Adamson",
+      "books": [
+        {
+          "name": "Minding the Machines: Building and Leading Data Science and Analytics Teams",
+          "number_of_pages": "232"
+        }
+      ]
+    },
+    {
+      "name": "Jeremy G. Siek",
+      "books": [
+        {
+          "name": "Essentials of Compilation: An Incremental Approach in Python",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Kubica",
+      "books": [
+        {
+          "name": "Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples",
+          "number_of_pages": "304"
+        }
+      ]
+    },
+    {
+      "name": "Jessica Fries-Gaither",
+      "books": [
+        {
+          "name": "Exemplary Evidence: Scientists and Their Data",
+          "number_of_pages": "562"
+        }
+      ]
+    },
+    {
+      "name": "Jiawei Han",
+      "books": [
+        {
+          "name": "Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems)",
+          "number_of_pages": "752"
+        }
+      ]
+    },
+    {
+      "name": "Jike Chong",
+      "books": [
+        {
+          "name": "How to Lead in Data Science",
+          "number_of_pages": "512"
+        }
+      ]
+    },
+    {
+      "name": "Joe Reis",
+      "books": [
+        {
+          "name": "Fundamentals of Data Engineering: Plan and Build Robust Data Systems",
+          "number_of_pages": "446"
+        }
+      ]
+    },
+    {
+      "name": "Joel Grus",
+      "books": [
+        {
+          "name": "Data Science from Scratch: First Principles with Python",
+          "number_of_pages": "330"
+        }
+      ]
+    },
+    {
+      "name": "Joel Murach",
+      "books": [
+        {
+          "name": "Murach's Python Programming (2nd Edition)",
+          "number_of_pages": "564"
+        }
+      ]
+    },
+    {
+      "name": "Johan Gabrielsson",
+      "books": [
+        {
+          "name": "Pharmacokinetic and Pharmacodynamic Data Analysis: Concepts and Applications, Second Edition",
+          "number_of_pages": "1040"
+        }
+      ]
+    },
+    {
+      "name": "Johannes Ernesti",
+      "books": [
+        {
+          "name": "Python 3: The Comprehensive Guide to Hands-On Python Programming",
+          "number_of_pages": "1000"
+        }
+      ]
+    },
+    {
+      "name": "John C. Shovic",
+      "books": [
+        {
+          "name": "Python All-in-One For Dummies (For Dummies (Computer/Tech))",
+          "number_of_pages": "720"
+        }
+      ]
+    },
+    {
+      "name": "John Canning",
+      "books": [
+        {
+          "name": "Data Structures & Algorithms in Python (Developer's Library)",
+          "number_of_pages": "928"
+        }
+      ]
+    },
+    {
+      "name": "John Erickson",
+      "books": [
+        {
+          "name": "Database Technologies: Concepts, Methodologies, Tools, and Applications",
+          "number_of_pages": "2962"
+        }
+      ]
+    },
+    {
+      "name": "John K. Thompson",
+      "books": [
+        {
+          "name": "Data for All",
+          "number_of_pages": "230"
+        }
+      ]
+    },
+    {
+      "name": "John Slavio",
+      "books": [
+        {
+          "name": "Microsoft Excel: Advanced Microsoft Excel Data Analysis for Business",
+          "number_of_pages": "381"
+        }
+      ]
+    },
+    {
+      "name": "John W. Foreman",
+      "books": [
+        {
+          "name": "Data Smart: Using Data Science to Transform Information into Insight",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "Johnathan Rand",
+      "books": [
+        {
+          "name": "Poisonous Pythons Paralyze Pennsylvania (American Chillers)",
+          "number_of_pages": "167"
+        }
+      ]
+    },
+    {
+      "name": "Johnny Wei-Bing Lin",
+      "books": [
+        {
+          "name": "An Introduction to Python Programming for Scientists and Engineers",
+          "number_of_pages": "766"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Reichental",
+      "books": [
+        {
+          "name": "Data Governance For Dummies (For Dummies (Computer/tech))",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Rioux",
+      "books": [
+        {
+          "name": "Data Analysis with Python and PySpark",
+          "number_of_pages": "456"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Schwabish",
+      "books": [
+        {
+          "name": "Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Jonelle Hoop",
+      "books": [
+        {
+          "name": "Preparing For A Data Interview: Learn Enough Python For A Project Or An Interview",
+          "number_of_pages": "24"
+        }
+      ]
+    },
+    {
+      "name": "Jose Haro Peralta",
+      "books": [
+        {
+          "name": "Microservice APIs: Using Python, Flask, FastAPI, OpenAPI and more",
+          "number_of_pages": "440"
+        }
+      ]
+    },
+    {
+      "name": "Joshua Saxe",
+      "books": [
+        {
+          "name": "Malware Data Science: Attack Detection and Attribution",
+          "number_of_pages": "272"
+        }
+      ]
+    },
+    {
+      "name": "Judith D. Singer",
+      "books": [
+        {
+          "name": "Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence",
+          "number_of_pages": "644"
+        }
+      ]
+    },
+    {
+      "name": "Jules Damji",
+      "books": [
+        {
+          "name": "Learning Spark: Lightning-Fast Data Analytics",
+          "number_of_pages": "397"
+        }
+      ]
+    },
+    {
+      "name": "Julien Danjou",
+      "books": [
+        {
+          "name": "Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Justin Grimmer",
+      "books": [
+        {
+          "name": "Text as Data: A New Framework for Machine Learning and the Social Sciences",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Karen L. Webber",
+      "books": [
+        {
+          "name": "Big Data on Campus: Data Analytics and Decision Making in Higher Education",
+          "number_of_pages": "301"
+        }
+      ]
+    },
+    {
+      "name": "Kate Strachnyi",
+      "books": [
+        {
+          "name": "ColorWise: A Data Storyteller's Guide to the Intentional Use of Color",
+          "number_of_pages": "165"
+        }
+      ]
+    },
+    {
+      "name": "Keeper L. Sharkey",
+      "books": [
+        {
+          "name": "Quantum Chemistry and Computing for the Curious: Illustrated with Python and Qiskit® code",
+          "number_of_pages": "354"
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Reitz",
+      "books": [
+        {
+          "name": "The Hitchhiker's Guide to Python: Best Practices for Development",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "Kenneth Stehlik-Barry",
+      "books": [
+        {
+          "name": "Data Analysis with IBM SPSS Statistics: Implementing Data Modeling, Descriptive Statistics and ANOVA",
+          "number_of_pages": "682"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Snow",
+      "books": [
+        {
+          "name": "The Science of Hockey: The Math, Technology, and Data Behind the Sport",
+          "number_of_pages": "107"
+        }
+      ]
+    },
+    {
+      "name": "Khang Pham",
+      "books": [
+        {
+          "name": "Machine Learning Design Interview: Machine Learning System Design Interview",
+          "number_of_pages": "210"
+        }
+      ]
+    },
+    {
+      "name": "Kieran Healy",
+      "books": [
+        {
+          "name": "Data Visualization: A Practical Introduction",
+          "number_of_pages": "296"
+        }
+      ]
+    },
+    {
+      "name": "Kimberly Wienzierl",
+      "books": [
+        {
+          "name": "The Data Governance Guidebook and Playbook: By a Practitioner for Practitioners",
+          "number_of_pages": "118"
+        }
+      ]
+    },
+    {
+      "name": "Kirsten Martin",
+      "books": [
+        {
+          "name": "Ethics of Data and Analytics: Concepts and Cases",
+          "number_of_pages": "474"
+        }
+      ]
+    },
+    {
+      "name": "Klaus Hoeyer",
+      "books": [
+        {
+          "name": "Data Paradoxes: The Politics of Intensified Data Sourcing in Contemporary Healthcare",
+          "number_of_pages": "712"
+        }
+      ]
+    },
+    {
+      "name": "Kolawole Mangabo",
+      "books": [
+        {
+          "name": "Full Stack Django and React: Hands-on full-stack web development with Python and React",
+          "number_of_pages": "279"
+        }
+      ]
+    },
+    {
+      "name": "Konrad Banachewicz",
+      "books": [
+        {
+          "name": "The Kaggle Book: Data analysis and machine learning for competitive data science",
+          "number_of_pages": "534"
+        }
+      ]
+    },
+    {
+      "name": "Kosuke Imai",
+      "books": [
+        {
+          "name": "Quantitative Social Science: An Introduction in tidyverse",
+          "number_of_pages": "488"
+        }
+      ]
+    },
+    {
+      "name": "Kris Pearson",
+      "books": [
+        {
+          "name": "Investing for Young Adults: How to Earn, Save, Invest, Grow Your Money and Retire Early!",
+          "number_of_pages": "143"
+        }
+      ]
+    },
+    {
+      "name": "Kristi Jackson",
+      "books": [
+        {
+          "name": "Qualitative Data Analysis with NVivo",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Kristin H. Jarman",
+      "books": [
+        {
+          "name": "The Art of Data Analysis: How to Answer Almost Any Question Using Basic Statistics",
+          "number_of_pages": "192"
+        }
+      ]
+    },
+    {
+      "name": "Kupe Kupersmith",
+      "books": [
+        {
+          "name": "Business Analysis For Dummies",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Kyran Dale",
+      "books": [
+        {
+          "name": "Data Visualization with Python and JavaScript",
+          "number_of_pages": "864"
+        }
+      ]
+    },
+    {
+      "name": "Lara Ozkan",
+      "books": [
+        {
+          "name": "RNA Sequencing: Principles and Data Analysis",
+          "number_of_pages": "118"
+        }
+      ]
+    },
+    {
+      "name": "Laurence Moroney",
+      "books": [
+        {
+          "name": "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence",
+          "number_of_pages": "237"
+        }
+      ]
+    },
+    {
+      "name": "Lee Andrew (Andy) Harrison",
+      "books": [
+        {
+          "name": "Introduction to Synthetic Aperture Radar Using Python and MATLAB®",
+          "number_of_pages": "390"
+        }
+      ]
+    },
+    {
+      "name": "Lee Andrew Harrison",
+      "books": [
+        {
+          "name": "Introduction to Radar With Python and Matlab",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Leonard J. Savage",
+      "books": [
+        {
+          "name": "The Foundations of Statistics",
+          "number_of_pages": "310"
+        }
+      ]
+    },
+    {
+      "name": "Lewis Tunstall",
+      "books": [
+        {
+          "name": "Natural Language Processing with Transformers: Building Language Applications with Hugging Face",
+          "number_of_pages": "406"
+        }
+      ]
+    },
+    {
+      "name": "Lisa Daniels",
+      "books": [
+        {
+          "name": "An Introduction to Statistics and Data Analysis Using Stata: From Research Design to Final Report",
+          "number_of_pages": "392"
+        }
+      ]
+    },
+    {
+      "name": "Luciano Ramalho",
+      "books": [
+        {
+          "name": "Fluent Python: Clear, Concise, and Effective Programming",
+          "number_of_pages": "1012"
+        }
+      ]
+    },
+    {
+      "name": "Lyn D. Sharratt",
+      "books": [
+        {
+          "name": "Putting FACES on the Data: What Great Leaders and Teachers Do!",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Magy Seif El-Nasr",
+      "books": [
+        {
+          "name": "Game Data Science",
+          "number_of_pages": "416"
+        }
+      ]
+    },
+    {
+      "name": "Marcello La Rocca",
+      "books": [
+        {
+          "name": "Advanced Algorithms and Data Structures",
+          "number_of_pages": "768"
+        }
+      ]
+    },
+    {
+      "name": "Marco Peixeiro",
+      "books": [
+        {
+          "name": "Time Series Forecasting in Python",
+          "number_of_pages": "456"
+        }
+      ]
+    },
+    {
+      "name": "Mark Allen Weiss",
+      "books": [
+        {
+          "name": "Data Structures and Algorithm Analysis in Java: International Edition",
+          "number_of_pages": "640"
+        }
+      ]
+    },
+    {
+      "name": "Mark Fenner",
+      "books": [
+        {
+          "name": "Machine Learning with Python for Everyone (Addison-Wesley Data & Analytics Series)",
+          "number_of_pages": "592"
+        }
+      ]
+    },
+    {
+      "name": "Mark Gardener",
+      "books": [
+        {
+          "name": "An Introduction to R: Data Analysis and Visualization (Research Skills)",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Mark Myers",
+      "books": [
+        {
+          "name": "A Smarter Way to Learn Python: Learn it faster. Remember it longer.",
+          "number_of_pages": "236"
+        }
+      ]
+    },
+    {
+      "name": "Mark OShea",
+      "books": [
+        {
+          "name": "Boas and Pythons of the World",
+          "number_of_pages": "160"
+        }
+      ]
+    },
+    {
+      "name": "Mark Weiss",
+      "books": [
+        {
+          "name": "Data Structures & Algorithm Analysis in C++",
+          "number_of_pages": "664"
+        }
+      ]
+    },
+    {
+      "name": "Matt Parker",
+      "books": [
+        {
+          "name": "Humble Pi: When Math Goes Wrong in the Real World",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "Mattan Griffel",
+      "books": [
+        {
+          "name": "Python for MBAs",
+          "number_of_pages": "493"
+        }
+      ]
+    },
+    {
+      "name": "Matthew A. Barsalou",
+      "books": [
+        {
+          "name": "Root Cause Analysis",
+          "number_of_pages": "154"
+        }
+      ]
+    },
+    {
+      "name": "Matthew B. Miles",
+      "books": [
+        {
+          "name": "Qualitative Data Analysis: A Methods Sourcebook",
+          "number_of_pages": "408"
+        }
+      ]
+    },
+    {
+      "name": "Matthew F. Dixon",
+      "books": [
+        {
+          "name": "Machine Learning in Finance: From Theory to Practice",
+          "number_of_pages": "573"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Fowler",
+      "books": [
+        {
+          "name": "Python Concurrency with asyncio",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Weston",
+      "books": [
+        {
+          "name": "Learn Microsoft PowerApps: Build customized business applications without writing any code",
+          "number_of_pages": "560"
+        }
+      ]
+    },
+    {
+      "name": "Maverick Lin",
+      "books": [
+        {
+          "name": "The Little Book of Data Science Tricks: 100+ Techniques to Elevate Your Data Science Skills",
+          "number_of_pages": "59"
+        }
+      ]
+    },
+    {
+      "name": "Meg Ray",
+      "books": [
+        {
+          "name": "Code This Game!: Make Your Game Using Python, Then Break Your Game to Create a New One!",
+          "number_of_pages": "320"
+        }
+      ]
+    },
+    {
+      "name": "Megan Torrance",
+      "books": [
+        {
+          "name": "Data and Analytics for Instructional Designers",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Meinard Müller",
+      "books": [
+        {
+          "name": "Fundamentals of Music Processing: Using Python and Jupyter Notebooks",
+          "number_of_pages": "526"
+        }
+      ]
+    },
+    {
+      "name": "Melanie Feinberg",
+      "books": [
+        {
+          "name": "Everyday Adventures with Unruly Data",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "MG Martin",
+      "books": [
+        {
+          "name": "Excel Pivot Tables: Basic Beginners Guide to Learn Excel Pivot Tables for Data Analysis and Modeling",
+          "number_of_pages": "71"
+        }
+      ]
+    },
+    {
+      "name": "Micha Gorelick",
+      "books": [
+        {
+          "name": "High Performance Python: Practical Performant Programming for Humans",
+          "number_of_pages": "468"
+        }
+      ]
+    },
+    {
+      "name": "Michael Alexander",
+      "books": [
+        {
+          "name": "Excel Dashboards & Reports For Dummies (For Dummies (Computer/Tech))",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Michael Bowen",
+      "books": [
+        {
+          "name": "The Basics of Data Literacy: Helping Your Students (And You!) Make Sense of Data - PB343X",
+          "number_of_pages": "166"
+        }
+      ]
+    },
+    {
+      "name": "Michael Collins",
+      "books": [
+        {
+          "name": "Network Security Through Data Analysis: From Data to Action",
+          "number_of_pages": "428"
+        }
+      ]
+    },
+    {
+      "name": "Michael Friendly",
+      "books": [
+        {
+          "name": "A History of Data Visualization and Graphic Communication",
+          "number_of_pages": "320"
+        }
+      ]
+    },
+    {
+      "name": "Michael Fullan",
+      "books": [
+        {
+          "name": "Deep Learning: Engage the World Change the World",
+          "number_of_pages": "208"
+        }
+      ]
+    },
+    {
+      "name": "Michael Isichenko",
+      "books": [
+        {
+          "name": "Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage",
+          "number_of_pages": "304"
+        }
+      ]
+    },
+    {
+      "name": "Michael Urban",
+      "books": [
+        {
+          "name": "Murach's Python Programming",
+          "number_of_pages": "590"
+        }
+      ]
+    },
+    {
+      "name": "Michiel Rozema",
+      "books": [
+        {
+          "name": "Extreme DAX: Take your Power BI and Microsoft data analytics skills to the next level",
+          "number_of_pages": "470"
+        }
+      ]
+    },
+    {
+      "name": "Mike Chapple",
+      "books": [
+        {
+          "name": "CompTIA Data+ Study Guide: Exam DA0-001",
+          "number_of_pages": "368"
+        }
+      ]
+    },
+    {
+      "name": "Mike Cohen",
+      "books": [
+        {
+          "name": "Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Mike Grigsby",
+      "books": [
+        {
+          "name": "Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Mr Patrick Cuba",
+      "books": [
+        {
+          "name": "The Data Vault Guru: a pragmatic guide on building a data vault",
+          "number_of_pages": "676"
+        }
+      ]
+    },
+    {
+      "name": "Naomi Ceder",
+      "books": [
+        {
+          "name": "The Quick Python Book",
+          "number_of_pages": "472"
+        }
+      ]
+    },
+    {
+      "name": "Neal Ford",
+      "books": [
+        {
+          "name": "Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures",
+          "number_of_pages": "459"
+        }
+      ]
+    },
+    {
+      "name": "Nichola Lacey",
+      "books": [
+        {
+          "name": "Python by Example: Learning to Program in 150 Challenges",
+          "number_of_pages": "191"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Vandeput",
+      "books": [
+        {
+          "name": "Data Science for Supply Chain Forecasting",
+          "number_of_pages": "280"
+        }
+      ]
+    },
+    {
+      "name": "Nina Zumel",
+      "books": [
+        {
+          "name": "Practical Data Science with R, Second Edition",
+          "number_of_pages": "483"
+        }
+      ]
+    },
+    {
+      "name": "Nir Kaldero",
+      "books": [
+        {
+          "name": "Data Science for Executives: Leveraging Machine Intelligence to Drive Business ROI",
+          "number_of_pages": "417"
+        }
+      ]
+    },
+    {
+      "name": "Noah Gift",
+      "books": [
+        {
+          "name": "Python for DevOps: Learn Ruthlessly Effective Automation",
+          "number_of_pages": "506"
+        }
+      ]
+    },
+    {
+      "name": "Norman Fenton",
+      "books": [
+        {
+          "name": "Risk Assessment and Decision Analysis with Bayesian Networks",
+          "number_of_pages": "660"
+        }
+      ]
+    },
+    {
+      "name": "Olaf Behnke",
+      "books": [
+        {
+          "name": "Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods",
+          "number_of_pages": "658"
+        }
+      ]
+    },
+    {
+      "name": "Oliver Moore",
+      "books": [
+        {
+          "name": "PYTHON FOR BEGINNERS: Enter the Real World of Python and Learn How to Think Like a Programmer",
+          "number_of_pages": "142"
+        }
+      ]
+    },
+    {
+      "name": "Orly Lobel",
+      "books": [
+        {
+          "name": "The Equality Machine: Harnessing Digital Technology for a Brighter, More Inclusive Future",
+          "number_of_pages": "301"
+        }
+      ]
+    },
+    {
+      "name": "Pang-Ning Tan",
+      "books": [
+        {
+          "name": "Introduction to Data Mining (2nd Edition) (What's New in Computer Science)",
+          "number_of_pages": "671"
+        }
+      ]
+    },
+    {
+      "name": "Pat Bazeley",
+      "books": [
+        {
+          "name": "Qualitative Data Analysis: Practical Strategies",
+          "number_of_pages": "584"
+        }
+      ]
+    },
+    {
+      "name": "Patricia Foster",
+      "books": [
+        {
+          "name": "Python Programming for Beginners: A Kid's Guide to Coding Fundamentals",
+          "number_of_pages": "198"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Viafore",
+      "books": [
+        {
+          "name": "Robust Python: Write Clean and Maintainable Code",
+          "number_of_pages": "380"
+        }
+      ]
+    },
+    {
+      "name": "Patrik Borosch",
+      "books": [
+        {
+          "name": "Cloud Scale Analytics with Azure Data Services: Build modern data warehouses on Microsoft Azure",
+          "number_of_pages": "520"
+        }
+      ]
+    },
+    {
+      "name": "Paul Barry",
+      "books": [
+        {
+          "name": "Head First Python: A Brain-Friendly Guide",
+          "number_of_pages": "600"
+        }
+      ]
+    },
+    {
+      "name": "Paul F. Magnone",
+      "books": [
+        {
+          "name": "Decisions Over Decimals: Striking the Balance between Intuition and Information",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Paul Houghton",
+      "books": [
+        {
+          "name": "Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx",
+          "number_of_pages": "366"
+        }
+      ]
+    },
+    {
+      "name": "Paul Leonardi",
+      "books": [
+        {
+          "name": "The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI",
+          "number_of_pages": "272"
+        }
+      ]
+    },
+    {
+      "name": "Paul McFedries",
+      "books": [
+        {
+          "name": "Excel Data Analysis For Dummies (For Dummies (Computer/Tech))",
+          "number_of_pages": "368"
+        }
+      ]
+    },
+    {
+      "name": "Paul Orland",
+      "books": [
+        {
+          "name": "Math for Programmers: 3D graphics, machine learning, and simulations with Python",
+          "number_of_pages": "688"
+        }
+      ]
+    },
+    {
+      "name": "Peggy Warren",
+      "books": [
+        {
+          "name": "Data Analysis & Probability: A Quickstudy Laminated Reference Guide (Math Fundamentals, 4)",
+          "number_of_pages": "6"
+        }
+      ]
+    },
+    {
+      "name": "Perry Xiao",
+      "books": [
+        {
+          "name": "Artificial Intelligence Programming with Python: From Zero to Hero",
+          "number_of_pages": "720"
+        }
+      ]
+    },
+    {
+      "name": "Peter C. Bruce",
+      "books": [
+        {
+          "name": "Responsible Data Science: Transparency and Fairness in Algorithms",
+          "number_of_pages": "304"
+        }
+      ]
+    },
+    {
+      "name": "Philip H. Pollock",
+      "books": [
+        {
+          "name": "An R Companion to Political Analysis",
+          "number_of_pages": "416"
+        }
+      ]
+    },
+    {
+      "name": "Philipp K. Janert",
+      "books": [
+        {
+          "name": "Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists",
+          "number_of_pages": "540"
+        }
+      ]
+    },
+    {
+      "name": "Qingquan Song",
+      "books": [
+        {
+          "name": "Automated Machine Learning in Action",
+          "number_of_pages": "336"
+        }
+      ]
+    },
+    {
+      "name": "R. Lyman Ott",
+      "books": [
+        {
+          "name": "An Introduction to Statistical Methods and Data Analysis",
+          "number_of_pages": "1296"
+        }
+      ]
+    },
+    {
+      "name": "Rachel Boba Santos",
+      "books": [
+        {
+          "name": "Crime Analysis with Crime Mapping",
+          "number_of_pages": "504"
+        }
+      ]
+    },
+    {
+      "name": "Rafael A. Irizarry",
+      "books": [
+        {
+          "name": "Data Analysis for the Life Sciences with R",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Raghunathan Rengaswamy",
+      "books": [
+        {
+          "name": "Data Science for Engineers",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Rakesh Nayak",
+      "books": [
+        {
+          "name": "Python for Engineers and Scientists: Concepts and Applications",
+          "number_of_pages": "672"
+        }
+      ]
+    },
+    {
+      "name": "Rama Chellappa",
+      "books": [
+        {
+          "name": "Can We Trust AI? (Johns Hopkins Wavelengths)",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Raul Rabadan",
+      "books": [
+        {
+          "name": "Topological Data Analysis for Genomics and Evolution: Topology in Biology",
+          "number_of_pages": "324"
+        }
+      ]
+    },
+    {
+      "name": "Ray Dalio",
+      "books": [
+        {
+          "name": "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail",
+          "number_of_pages": "576"
+        }
+      ]
+    },
+    {
+      "name": "Ray Salemi",
+      "books": [
+        {
+          "name": "Python for RTL Verification: A complete course in Python, cocotb, and pyuvm",
+          "number_of_pages": "343"
+        }
+      ]
+    },
+    {
+      "name": "Renee M. P. Teate",
+      "books": [
+        {
+          "name": "SQL for Data Scientists: A Beginner's Guide for Building Datasets for Analysis",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "books": [
+        {
+          "name": "Mathematical Statistics and Data Analysis",
+          "number_of_pages": "684"
+        }
+      ]
+    },
+    {
+      "name": "Richard Cotton",
+      "books": [
+        {
+          "name": "Learning R: A Step-by-Step Function Guide to Data Analysis",
+          "number_of_pages": "396"
+        }
+      ]
+    },
+    {
+      "name": "RICHARD STEVE",
+      "books": [
+        {
+          "name": "POWER BI FOR BEGINNERS 2022: A SIMPLE AND DIRECT GUIDE TO DATA ANALYSIS USING POWER BI",
+          "number_of_pages": "49"
+        }
+      ]
+    },
+    {
+      "name": "Rick J. Scavetta",
+      "books": [
+        {
+          "name": "Python and R for the Modern Data Scientist: The Best of Both Worlds",
+          "number_of_pages": "198"
+        }
+      ]
+    },
+    {
+      "name": "Rob Kitchin",
+      "books": [
+        {
+          "name": "The Data Revolution: A Critical Analysis of Big Data, Open Data and Data Infrastructures",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Rob Miles",
+      "books": [
+        {
+          "name": "Begin to Code with Python",
+          "number_of_pages": "528"
+        }
+      ]
+    },
+    {
+      "name": "Robert D. Gibbons",
+      "books": [
+        {
+          "name": "Longitudinal Data Analysis",
+          "number_of_pages": "360"
+        }
+      ]
+    },
+    {
+      "name": "Robert Hoyt",
+      "books": [
+        {
+          "name": "Introduction to Biomedical Data Science",
+          "number_of_pages": "258"
+        }
+      ]
+    },
+    {
+      "name": "Robert I. Kabacoff",
+      "books": [
+        {
+          "name": "R in Action, Third Edition: Data analysis and graphics with R and Tidyverse",
+          "number_of_pages": "656"
+        }
+      ]
+    },
+    {
+      "name": "Roger Peng",
+      "books": [
+        {
+          "name": "The Art of Data Science",
+          "number_of_pages": "170"
+        }
+      ]
+    },
+    {
+      "name": "Roland Wenzlofsky",
+      "books": [
+        {
+          "name": "Teradata Query Performance Tuning: DWHPro's Guide",
+          "number_of_pages": "322"
+        }
+      ]
+    },
+    {
+      "name": "Roman Zykov",
+      "books": [
+        {
+          "name": "Roman's Data Science: How to monetize your data",
+          "number_of_pages": "350"
+        }
+      ]
+    },
+    {
+      "name": "Ronald H. Heck",
+      "books": [
+        {
+          "name": "Multilevel and Longitudinal Modeling with IBM SPSS (Quantitative Methodology Series)",
+          "number_of_pages": "484"
+        }
+      ]
+    },
+    {
+      "name": "Ronald T. Kneusel",
+      "books": [
+        {
+          "name": "Practical Deep Learning: A Python-Based Introduction",
+          "number_of_pages": "464"
+        }
+      ]
+    },
+    {
+      "name": "Roxy Peck",
+      "books": [
+        {
+          "name": "Introduction to Statistics and Data Analysis",
+          "number_of_pages": "944"
+        }
+      ]
+    },
+    {
+      "name": "Russell Lundholm",
+      "books": [
+        {
+          "name": "Equity Valuation and Analysis: 5th Edition",
+          "number_of_pages": "248"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Lamdan",
+      "books": [
+        {
+          "name": "Data Cartels: The Companies That Control and Monopolize Our Information",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Scott E. Page",
+      "books": [
+        {
+          "name": "The Model Thinker: What You Need to Know to Make Data Work for You",
+          "number_of_pages": "372"
+        }
+      ]
+    },
+    {
+      "name": "Scott Mongeau",
+      "books": [
+        {
+          "name": "Cybersecurity Data Science: Best Practices in an Emerging Profession",
+          "number_of_pages": "415"
+        }
+      ]
+    },
+    {
+      "name": "Scott V. Burger",
+      "books": [
+        {
+          "name": "Introduction to Machine Learning with R: Rigorous Mathematical Analysis",
+          "number_of_pages": "226"
+        }
+      ]
+    },
+    {
+      "name": "Sean McManus",
+      "books": [
+        {
+          "name": "Mission Python: Code a Space Adventure Game!",
+          "number_of_pages": "280"
+        }
+      ]
+    },
+    {
+      "name": "Sergio Rey",
+      "books": [
+        {
+          "name": "Geographic Data Science with Python (Chapman & Hall/CRC Texts in Statistical Science)",
+          "number_of_pages": "393"
+        }
+      ]
+    },
+    {
+      "name": "Seth Stephens-Davidowitz",
+      "books": [
+        {
+          "name": "Don't Trust Your Gut: Using Data to Get What You Really Want in LIfe",
+          "number_of_pages": "316"
+        }
+      ]
+    },
+    {
+      "name": "Seth Weidman",
+      "books": [
+        {
+          "name": "Deep Learning from Scratch: Building with Python from First Principles",
+          "number_of_pages": "252"
+        }
+      ]
+    },
+    {
+      "name": "Shashikant Kulkarni",
+      "books": [
+        {
+          "name": "Clinical Genomics, Second Edition: A Guide to Clinical Next Generation Sequencing",
+          "number_of_pages": "562"
+        }
+      ]
+    },
+    {
+      "name": "Sheena Vaidyanathan",
+      "books": [
+        {
+          "name": "Creative Coding in Python: 30+ Programming Projects in Art, Games, and More",
+          "number_of_pages": "144"
+        }
+      ]
+    },
+    {
+      "name": "Shrilata Murthy",
+      "books": [
+        {
+          "name": "Be the Outlier: How to Ace Data Science Interviews",
+          "number_of_pages": "212"
+        }
+      ]
+    },
+    {
+      "name": "Sid James",
+      "books": [
+        {
+          "name": "Reticulated Pythons: A complete guide to care and husbandry",
+          "number_of_pages": "130"
+        }
+      ]
+    },
+    {
+      "name": "Simon Monk",
+      "books": [
+        {
+          "name": "Programming the Raspberry Pi, Third Edition: Getting Started with Python",
+          "number_of_pages": "192"
+        }
+      ]
+    },
+    {
+      "name": "Skov Bash",
+      "books": [
+        {
+          "name": "Ace the Data Science Interview",
+          "number_of_pages": "180"
+        }
+      ]
+    },
+    {
+      "name": "Sofien Kaabar",
+      "books": [
+        {
+          "name": "Mastering Financial Pattern Recognition: Finding and Back-Testing Candlestick Patterns with Python",
+          "number_of_pages": "288"
+        }
+      ]
+    },
+    {
+      "name": "Stanley Chan",
+      "books": [
+        {
+          "name": "Introduction to Probability for Data Science",
+          "number_of_pages": "704"
+        }
+      ]
+    },
+    {
+      "name": "Stanley Lemeshow",
+      "books": [
+        {
+          "name": "Applied Survival Analysis: Regression Modeling of Time-to-Event Data",
+          "number_of_pages": "416"
+        }
+      ]
+    },
+    {
+      "name": "Stef Maruch",
+      "books": [
+        {
+          "name": "Python For Dummies",
+          "number_of_pages": "432"
+        }
+      ]
+    },
+    {
+      "name": "Stefan Timmermans",
+      "books": [
+        {
+          "name": "Data Analysis in Qualitative Research: Theorizing with Abductive Analysis",
+          "number_of_pages": "208"
+        }
+      ]
+    },
+    {
+      "name": "Stephen J. Wright",
+      "books": [
+        {
+          "name": "Optimization for Data Analysis",
+          "number_of_pages": "238"
+        }
+      ]
+    },
+    {
+      "name": "Stephen P. Borgatti",
+      "books": [
+        {
+          "name": "Analyzing Social Networks Using R",
+          "number_of_pages": "384"
+        }
+      ]
+    },
+    {
+      "name": "Steve Nico Williams",
+      "books": [
+        {
+          "name": "The Ultimate Guide To Understanding NFTs",
+          "number_of_pages": "141"
+        }
+      ]
+    },
+    {
+      "name": "Steven Bird",
+      "books": [
+        {
+          "name": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
+          "number_of_pages": "502"
+        }
+      ]
+    },
+    {
+      "name": "Steven L. Brunton",
+      "books": [
+        {
+          "name": "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",
+          "number_of_pages": "614"
+        }
+      ]
+    },
+    {
+      "name": "Sujay Raghavendra",
+      "books": [
+        {
+          "name": "Beginner's Guide to Streamlit with Python: Build Web-Based Data and Machine Learning Applications",
+          "number_of_pages": "224"
+        }
+      ]
+    },
+    {
+      "name": "Sumit Gupta",
+      "books": [
+        {
+          "name": "The Tableau Workshop: A practical guide to the art of data visualization with Tableau",
+          "number_of_pages": "822"
+        }
+      ]
+    },
+    {
+      "name": "Susanne Friese",
+      "books": [
+        {
+          "name": "Qualitative Data Analysis with ATLAS.ti",
+          "number_of_pages": "344"
+        }
+      ]
+    },
+    {
+      "name": "Tamal Krishna Dey",
+      "books": [
+        {
+          "name": "Computational Topology for Data Analysis",
+          "number_of_pages": "452"
+        }
+      ]
+    },
+    {
+      "name": "Ted Hart-Davis",
+      "books": [
+        {
+          "name": "Teach Yourself VISUALLY Python (Teach Yourself VISUALLY (Tech))",
+          "number_of_pages": "304"
+        }
+      ]
+    },
+    {
+      "name": "Ted Malaska",
+      "books": [
+        {
+          "name": "Foundations for Architecting Data Solutions: Managing Successful Data Projects",
+          "number_of_pages": "281"
+        }
+      ]
+    },
+    {
+      "name": "The Tech Academy",
+      "books": [
+        {
+          "name": "Learn Coding Basics in Hours with Python",
+          "number_of_pages": "107"
+        }
+      ]
+    },
+    {
+      "name": "Thomas H. Cormen",
+      "books": [
+        {
+          "name": "Introduction to Algorithms, 3rd Edition (The MIT Press)",
+          "number_of_pages": "1292"
+        }
+      ]
+    },
+    {
+      "name": "Thorsten Gressling",
+      "books": [
+        {
+          "name": "Data Science in Chemistry (De Gruyter Textbook)",
+          "number_of_pages": "330"
+        }
+      ]
+    },
+    {
+      "name": "Tiago Rodrigues Antao",
+      "books": [
+        {
+          "name": "Fast Python: High performance techniques for large datasets",
+          "number_of_pages": "320"
+        }
+      ]
+    },
+    {
+      "name": "Tiffany Bergin",
+      "books": [
+        {
+          "name": "An Introduction to Data Analysis: Quantitative, Qualitative and Mixed Methods",
+          "number_of_pages": "296"
+        }
+      ]
+    },
+    {
+      "name": "Tim Harford",
+      "books": [
+        {
+          "name": "The Data Detective: Ten Easy Rules to Make Sense of Statistics",
+          "number_of_pages": "287"
+        }
+      ]
+    },
+    {
+      "name": "Timothy C. Needham",
+      "books": [
+        {
+          "name": "Python: For Beginners: A Crash Course Guide To Learn Python in 1 Week",
+          "number_of_pages": "135"
+        }
+      ]
+    },
+    {
+      "name": "Toby Culshaw",
+      "books": [
+        {
+          "name": "Talent Intelligence: Use Business and People Data to Drive Organizational Performance",
+          "number_of_pages": "256"
+        }
+      ]
+    },
+    {
+      "name": "Todd E. Hudson",
+      "books": [
+        {
+          "name": "Bayesian Data Analysis for the Behavioral and Neural Sciences",
+          "number_of_pages": "612"
+        }
+      ]
+    },
+    {
+      "name": "Tonny J. Oyana",
+      "books": [
+        {
+          "name": "Spatial Analysis with R",
+          "number_of_pages": "354"
+        }
+      ]
+    },
+    {
+      "name": "Tony Gaddis",
+      "books": [
+        {
+          "name": "Starting Out with Python",
+          "number_of_pages": "744"
+        }
+      ]
+    },
+    {
+      "name": "Ulrika J&auml;gare",
+      "books": [
+        {
+          "name": "Data Science Strategy For Dummies",
+          "number_of_pages": "328"
+        }
+      ]
+    },
+    {
+      "name": "Upom Malik",
+      "books": [
+        {
+          "name": "SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL",
+          "number_of_pages": "386"
+        }
+      ]
+    },
+    {
+      "name": "Valliappa Lakshmanan",
+      "books": [
+        {
+          "name": "Google BigQuery: The Definitive Guide: Data Warehousing, Analytics, and Machine Learning at Scale",
+          "number_of_pages": "522"
+        }
+      ]
+    },
+    {
+      "name": "Vedat Ozan Oner",
+      "books": [
+        {
+          "name": "Developing IoT Projects with ESP32: Automate your home or business with inexpensive Wi-Fi devices",
+          "number_of_pages": "474"
+        }
+      ]
+    },
+    {
+      "name": "Victoria L. Bernhardt",
+      "books": [
+        {
+          "name": "Data Analysis for Continuous School Improvement: For Continuous School Improvement",
+          "number_of_pages": "426"
+        }
+      ]
+    },
+    {
+      "name": "Vidya Setlur",
+      "books": [
+        {
+          "name": "Functional Aesthetics for Data Visualization",
+          "number_of_pages": "313"
+        }
+      ]
+    },
+    {
+      "name": "Ville Tuulos",
+      "books": [
+        {
+          "name": "Effective Data Science Infrastructure: How to make data scientists productive",
+          "number_of_pages": "352"
+        }
+      ]
+    },
+    {
+      "name": "Vince Buffalo",
+      "books": [
+        {
+          "name": "Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools",
+          "number_of_pages": "536"
+        }
+      ]
+    },
+    {
+      "name": "Virginia Braun",
+      "books": [
+        {
+          "name": "Thematic Analysis: A Practical Guide",
+          "number_of_pages": "376"
+        }
+      ]
+    },
+    {
+      "name": "Vittorio Lora",
+      "books": [
+        {
+          "name": "Python for Civil and Structural Engineers",
+          "number_of_pages": "162"
+        }
+      ]
+    },
+    {
+      "name": "Wan Tang",
+      "books": [
+        {
+          "name": "Applied Categorical and Count Data Analysis (Chapman & Hall/CRC Texts in Statistical Science)",
+          "number_of_pages": "381"
+        }
+      ]
+    },
+    {
+      "name": "Wayne Winston",
+      "books": [
+        {
+          "name": "Microsoft Excel Data Analysis and Business Modeling (Business Skills)",
+          "number_of_pages": "864"
+        }
+      ]
+    },
+    {
+      "name": "Wes McKinney",
+      "books": [
+        {
+          "name": "Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter",
+          "number_of_pages": "579"
+        }
+      ]
+    },
+    {
+      "name": "Will Carroll",
+      "books": [
+        {
+          "name": "The Science of Football: The Math, Technology, and Data Behind America's Game",
+          "number_of_pages": "236"
+        }
+      ]
+    },
+    {
+      "name": "Willard D. Sanders",
+      "books": [
+        {
+          "name": "PYTHON: 2 books in 1 : Learn python programming for beginners and machine learning",
+          "number_of_pages": "241"
+        }
+      ]
+    },
+    {
+      "name": "William McKinney",
+      "books": [
+        {
+          "name": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
+          "number_of_pages": "547"
+        }
+      ]
+    },
+    {
+      "name": "Winston Chang",
+      "books": [
+        {
+          "name": "R Graphics Cookbook: Practical Recipes for Visualizing Data",
+          "number_of_pages": "444"
+        }
+      ]
+    },
+    {
+      "name": "Wolfram Donat",
+      "books": [
+        {
+          "name": "Make a Raspberry Pi-Controlled Robot: Building a Rover with Python, Linux, Motors, and Sensors",
+          "number_of_pages": "168"
+        }
+      ]
+    },
+    {
+      "name": "Yu Xie",
+      "books": [
+        {
+          "name": "Statistical Methods for Categorical Data Analysis, 2nd Edition",
+          "number_of_pages": "200"
+        }
+      ]
+    },
+    {
+      "name": "Yuli Vasiliev",
+      "books": [
+        {
+          "name": "Python for Data Science: A Hands-On Introduction",
+          "number_of_pages": "240"
+        }
+      ]
+    },
+    {
+      "name": "Zhamak Dehghani",
+      "books": [
+        {
+          "name": "Data Mesh: Delivering Data-Driven Value at Scale",
+          "number_of_pages": "384"
+        }
+      ]
+    }
+  ]
