@@ -21,7 +21,7 @@
       </b-col>
       <b-col>
         <b-form-group id="input-group-2">
-          <b-button variant="primary" class="w-100" v-b-modal.modal-1>Add</b-button>
+          <b-button variant="primary" class="w-100" v-b-modal.modal-1 @click="author_selected=null;">Add</b-button>
         </b-form-group>
       </b-col>
     </b-row>
