@@ -44,6 +44,7 @@ export default {
         ['bootstrap-vue/nuxt', { icons: true, css: true }],
         // https://go.nuxtjs.dev/axios
         '@nuxtjs/axios',
+        '@nuxtjs/auth',
     ],
 
     publicRuntimeConfig: {
@@ -58,6 +59,22 @@ export default {
         baseURL: process.env.NODE_ENV == 'development' ? 'http://127.0.0.1:8000' : process.env.BASEURL,
     },
 
+    auth: {
+        strategies: {
+          local: {
+            endpoints: {
+              login: { url: '/api/auth/token', method: 'post', propertyName: 'access_token'},
+              user: { url: '/api/auth/users/me', method: 'get', propertyName: false},
+              logout: false
+            }
+          }
+        }
+    },
+
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {},
+
+    router: {
+        middleware: ['auth']
+    },
 };
